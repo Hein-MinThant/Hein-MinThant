@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,programming and invention
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on a group like information and technology.
-- 📫 How to reach me I have to tried.
+- 📫 How to reach me I have to try.
 
 <!---
 Hein-MinThant/Hein-MinThant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
